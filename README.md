@@ -1,4 +1,4 @@
-# Couchapp Bootstrap Website: Another example on how to serve a static website from CouchDB
+# Couchapp Bootstrap Website
 https://github.com/Smileupps/couchapp-bootstrap-website
 
 ## Purpose 
